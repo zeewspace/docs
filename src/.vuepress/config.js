@@ -76,9 +76,11 @@ module.exports = {
               collapsable: true,
               children: [
                 'equipo/kamerrezz',
+                'equipo/gabo',
                 'equipo/bug',
                 'equipo/nadie',
                 'equipo/zJuqn',
+                'equipo/nikolai_xd',
               ]
             },
           ]
