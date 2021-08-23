@@ -1,0 +1,19 @@
+{
+  "name": "zeewdocs",
+  "version": "0.0.1",
+  "description": "Pagina oficial de zeew",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/ZeewDocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
