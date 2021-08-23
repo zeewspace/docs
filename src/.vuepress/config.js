@@ -113,6 +113,7 @@ module.exports = {
           title: 'Comunidad',
           collapsable: true,
           children: [
+            'comunidad/gs-transcript'
           ]
         }
       ]
