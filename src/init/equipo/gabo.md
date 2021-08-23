@@ -21,9 +21,9 @@ Estos son los proyectos que en los que estoy trabajando actualmente.
 
 
 ## 📲 Contactame  
- | Red social | Nombre |
- |:------------|:--------:|
- | ![Discord](https://i.imgur.com/gmUN9Jt.png)  | [Gab0o06#7065](https://discord.com/users/732382115483746357)|
- | ![Github](https://img.icons8.com/material-sharp/2x/github.png)|[Github](https://github.com/gab0o06)|
+ | Red social                                                     |                            Nombre                            |
+ | :------------------------------------------------------------- | :----------------------------------------------------------: |
+ | ![Discord](https://i.imgur.com/gmUN9Jt.png)                    | [Gab0o06#7065](https://discord.com/users/732382115483746357) |
+ | ![Github](https://img.icons8.com/material-sharp/2x/github.png) |             [Github](https://github.com/gab0o06)             |
 
  **Por el momento está un poco vacio, pero lo intentaré volver más bonito poco a poco!** 

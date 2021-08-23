@@ -1,16 +1,28 @@
-# Nadie
+# 🌟 Nadie
+## 👋 Presentación de Nadie
+Me presento soy __Nadie__, este es mi tag de discord. Soy __TEAM__ de Zeew, y __Administrador__ de Proyecto Kamerr.
 
-Bueno, buenas soy Nadie, uno de los Administradores y parte del Team del servidor de Kamerr Ezz.
+## 🍕 Sobre Mi:
+Soy Programador y Dibujante, en estos momentos estoy aprendiendo los siguientes Lenguajes.
 
-## Sobre Mi:
+- __Lenguajes__
 
-Soy Programador, en estos momentos estoy aprendiendo sobre los lenguajes, **JavaScript** y **C#**, en los cuales con **C#** estoy haciendo videojuegos y con JavaScript un login. Mi meta es llegar a ser un gran Programador reconocido en un futuro. Mis proyectos, son poder crear un videojuego, terminarlo y que se haga mundialmente conocido y que muchas personas lo jueguen, y hacer una pagina para mi Juego y para otras empresas.
+| Lenguajes de Programación | Lenguajes de Marcado |
+| :-----------------------: | :------------------: |
+|        JavaScript         |         HTML         |
+|            C#             |         CSS          |
 
-## ¿Cómo llegue al servidor?
+Tambien, estoy aprendiendo la Anatomia humana.
 
-Llegue al servidor mediante un video de Kamerr en el cual, yo estaba buscando como hacer, unos comandos útiles para mi Bot, y buscando y buscando encontré a **Kamerr**, el cual me ayudo bastante con sus videos. Decidí meterme a su servidor para apoyar a la comunidad, un par de meses después solicite ser parte del Staff, en el cual me aceptaron-
-¿Qué me gusta?
+Mi meta es llegar a ser un gran __Programador__ reconocido en un futuro cercano.
+Mis proyectos en estos momentos son, la creación de un Juego __Shooter__ en __Unity__, una Pagina Web Propia, y Creación de bots de __Discord__.
 
-## ¿Qué me gusta?
+## 🎈 ¿Cómo llegue al servidor?
+Llegue a __Zeew__, cuando __Kamerr__ publico por primera vez un Anuncio de su nueva __Api__, la cual esta seria llamada __Zeew__, en este mismo habia publicado el servidor de __Zeew__. En ese momento, yo tan interesado no estaba, ya que no programaba ya __Bots__ de __Discord__, pero meses despues empece devuelta a programar y me meti dentro del servidor. Bueno y aquí estoy, en estos momentos.
 
-Me gusta, Dibujar; Programar; Pasar el tiempo con mis amigos y mi familia; Jugar a la pelota.
+## 🎁 ¿Qué me gusta?
+Me gusta pasar mi tiempo libre con mi familia y amigos, y jugar a la pelota. Mi hobbie es el dibujo y la programación.
+
+## 🎊 Links
+- [Zeew](https://discord.gg/zeew)
+- [Proyecto Kamerr](https://discord.gg/ybAN7w8)
