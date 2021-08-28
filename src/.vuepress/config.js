@@ -62,6 +62,7 @@ module.exports = {
           collapsable: true,
           children: [
             '',
+            'hosting',
             'comunidad',
           ]
         },
@@ -116,6 +117,15 @@ module.exports = {
             'comunidad/gs-transcript'
           ]
         }
+      ],
+      '/guides/': [
+        {
+          title: 'Base de Datos',
+          collapsable: true,
+          children: [
+            'db/mongodb'
+          ]
+        },
       ]
     }
   },
