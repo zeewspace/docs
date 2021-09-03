@@ -6,7 +6,7 @@
 ✅ *Convierte tu **negocio y/o proyecto digital** con nosotros, además de ofrecerte servicios de alojamiento para almacenar tus proyectos **(servidores, hosting, VPS y mucho más!)**.*
 
 ☑️ Un gran amigo y aliado en temas de hosting, vps y dedicados especialmente para todo tipo de proyectos.
-**Invitamos** a usar el codigo `Zeew` obtendras un 10% en hosting en [Minecraft](https://www.kiaura.eu/hosting-minecraft) y [Discord Bot](https://www.kiaura.eu/discordbot-hosting)
+**Invitamos** a usar el código `Zeew` obtendrás un 10% en hosting en [Minecraft](https://www.kiaura.eu/hosting-minecraft) y [Discord Bot](https://www.kiaura.eu/discordbot-hosting)
 
 ***¿Qué esperas para seguirnos?***
 
