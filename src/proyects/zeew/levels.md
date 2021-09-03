@@ -1,12 +1,12 @@
 # Niveles
 
-Claro, claro que lo se, todos quieren tener niveles, subir de nivel y presumirle a todos que tiene el nivel mas alto.
+Claro, claro que lo sé, todos quieren tener niveles, subir de nivel y presumirle a todos que tiene el nivel más alto.
 
 Por eso te presento **Zeew-Levels**, un hermoso sistema de Niveles
 
 ## Configurar e instalar
 
-El sistema esta creado con la base de mongodb.
+El sistema está creado con la base de MongoDB.
 
 ```bash
 # Npm
@@ -15,16 +15,16 @@ $ npm i zeew-level
 $ yarn add zeew-level
 ``` 
 
-## ¿Que puedes hacer?
+## ¿Qué puedes hacer?
 
-- Colocar que tan rapido pueden subir.
+- Colocar que tan rápido pueden subir.
 - Color que tanto de XP puedes conseguir aleatoriamente.
-- El limite de XP para subir de nivel.
-- Colocar targetas de niveles.
+- El límite de XP para subir de nivel.
+- Colocar tarjetas de niveles.
 - Color cada cuando pueden generar XP
-- Y mucho mas.
+- Y mucho más.
 
-Otro modulo que haga eso, no lo creo y si existe, no lo han copiado.
+Otro módulo que haga eso, no lo creo y si existe, no lo han copiado.
 
 ## Actualizaciones
 
@@ -32,8 +32,8 @@ Otro modulo que haga eso, no lo creo y si existe, no lo han copiado.
   
 ## En Desarrollo
 
-- Opciones para cambiar la base de datos; MYSQL, SQLITE, MONGODB.
-- Implementacion con cards usando zeew api.
+- Opciones para cambiar la base de datos; MySQL, SQLite, MongoDB.
+- Implementación con cards usando zeew API.
 
 ## Links
 
