@@ -5,7 +5,7 @@
   - Transcript con formato HTML5
 
 
-## Informacion
+## Información
 
 * **General**
   * [Transcripts](#transcripts)
@@ -13,7 +13,7 @@
 
  
 
-Estamos atentos a cualquier error que tengas, para poder ser atendido solo unete a nuestro [discord]( https://discord.gg/HEXJKtxBS2).
+Estamos atentos a cualquier error que tengas, para poder ser atendido solo únete a nuestro [Discord]( https://discord.gg/HEXJKtxBS2).
 
 <a name="transcripts" />
 
@@ -37,13 +37,13 @@ const gs = new gstranscript.transcript("TOKEN")
 ```js
 gs.create({message, cantidad: ?})
 ```
-* message - variable mensajes
-* cantidad(Opcional) - Cantidades de mensajes para transcript (No mas de 99 mensajes)
+* message - variable mensaje
+* cantidad(Opcional) - Cantidades de mensajes para transcript (No más de 99 mensajes)
 
 
 #### Transcript: Ejemplo
 
-``Con este ejemplo puedes hacer que el bot envie el transcript como archivo .html al canal indicado.``
+``Con este ejemplo puedes hacer que el bot envíe el transcript como archivo .HTML al canal indicado.``
 
 ```js
 const resultado = new Discord.MessageAttachment(Buffer.from(await gs.create({message, cantidad: 50})), "transcript.html")
@@ -57,7 +57,7 @@ message.channel.send(resultado)
 
 #### Transcript: Convertir en Buffer
 
-``Con este ejemplo puedes convertir el html5 en formato buffer.``
+``Con este ejemplo puedes convertir el HTML en formato buffer.``
 
 ```js
 let resultadobuffer = Buffer.from(await gs.create({message, cantidad: 50}))
