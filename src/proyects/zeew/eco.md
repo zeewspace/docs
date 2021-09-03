@@ -1,25 +1,25 @@
-# Economia
+# Economía
 
-Por alguna razon a todos les gustaria tener un sistema de economia y aun que no es dificil, si lleva su tiempo en hacerla y pensar en todo.
+Por alguna razón a todos les gustaría tener un sistema de economía y aun que no es difícil, si lleva su tiempo en hacerla y pensar en todo.
 
-Entonces pensando mucho sobre el tema se ha creado este hermoso modulo donde podras crear tu sistema economia de manera facil.
+Entonces pensando mucho sobre el tema se ha creado este hermoso módulo donde podrás crear tu sistema economía de manera fácil.
 
-## Podras hacer
+## Podrás hacer
 
-Un sistema de economia simple entre los usuarios, nosotros ya pensamos en la logica principal, seras tu crees esas funciones donde el usuario podra gastarlo.
+Un sistema de economía simple entre los usuarios, nosotros ya pensamos en la lógica principal, serás tú crees esas funciones donde el usuario podrá gastarlo.
 
-No solo economia, tambien existe un banco, donde los usuarios podran guardar de manera seguro su dinero, una cosa es tenerlo en la mano y otra es meterlo en el banco de manera segura.
+No solo economía, también existe un banco, donde los usuarios podrán guardar de manera segura su dinero, una cosa es tenerlo en la mano y otra es meterlo en el banco de manera segura.
 
-¿Pero por que hay un banco? , Podrias estar desconectado o estando modo chill y derepente, alguien te roba, claro, eso es posible, alguien podria robar el dinero que traes. Si existe funciones para hacer eso.
+¿Pero por qué hay un banco?, Podrías estar desconectado o estando modo chill y de repente, alguien te roba, claro, eso es posible, alguien podría robar el dinero que traes. Si existe funciones para hacer eso.
 
-Pero no todo es dinero y el banco, tambien existen las tiendas, donde podrias gastar ese dinero para obtener algun, un jugo, una funcion extra, etc, etc.
+Pero no todo es dinero y el banco, también existen las tiendas, donde podrías gastar ese dinero para obtener algún, un jugo, una función extra, etc.
 
-~ Vale ya entendi, pero... Que pasa si compro, ¿Donde lo guardo? <br>
-Es una buena pregunta, pero ya pense eso, a si que tambien tiene un sistema de inventarios, ahora imagina que podrias hacer con eso, entrar en la epoca de los trades e intercambiar cosas.
+~ Vale ya entendí, pero... Que pasa si compro, ¿Dónde lo guardo? <br>
+Es una buena pregunta, pero ya pensé eso, a sí que también tiene un sistema de inventarios, ahora imagina que podrías hacer con eso, entrar en la época de los a través e intercambiar cosas.
 
 ## Configurar e instalar
 
-El sistema esta creado con la base de mongodb.
+El sistema está creado con la base de MongoDB.
 
 ```bash
 # Npm
@@ -30,14 +30,14 @@ $ yarn add zeew-eco
 
 ## Actualizaciones
 
-- Documentacion Actualizada.
+- Documentación Actualizada.
 - Links Arreglados
 - Ejemplos Arreglados
   
 ## En Desarrollo
 
-- Opciones para cambiar la base de datos; MYSQL, SQLITE, MONGODB.
-- Implementacion con cards usando zeew api.
+- Opciones para cambiar la base de datos; MySQL, SQLite, MongoDB.
+- Implementación con cards usando zeew API.
 
 ## Links
 
