@@ -6,10 +6,10 @@ actionText: Empezar →
 actionLink: /init/
 features:
 - title: Proyectos
-  details: Sabemos que no todos tenemos el tiempo para crear algo desde cero, a si que hemos pensando en ti.
+  details: Sabemos que no todos tenemos el tiempo para crear algo desde cero, a sí que hemos pensado en ti.
 - title: Comunidad
-  details: Nos encanta estar con nuestra comunidad, que de hecho, varios contenidos de esta pagina es mantenida y creada por ellos.
+  details: Nos encanta estar con nuestra comunidad, que de hecho, varios contenidos de esta página es mantenida y creada por ellos.
 - title: Market
-  details: Yo se que es dificil, pero puedes aprender o comprarlo. A qui podras encontrar muchos contenido a un buen precio.
+  details: Yo sé que es difícil, pero puedes aprender o comprarlo. Aquí podrás encontrar mucho contenido a un buen precio.
 footer: Creado con ❤️
 ---
