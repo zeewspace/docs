@@ -1,6 +1,7 @@
 # Reglamento
 
-Estaremos añadiendo normas internas (propias) para hacer un ambiente menos tóxico el equitativo entre los miembros. Antes que nada, nosotros seguimos al pie de la letra las normas, privacidad; y los términos que rige Discord
+Estaremos añadiendo normas internas (propias) para hacer un ambiente menos tóxico el equitativo entre los miembros. <br/>
+Antes que nada, nosotros seguimos al pie de la letra las normas, privacidad; y los términos que rige Discord dentro de su plataforma.
 
 https://discordapp.com/guidelines <br />
 https://discordapp.com/terms    <br />
@@ -8,15 +9,15 @@ https://discordapp.com/privacy  <br />
 
 ## convivencia y comportamiento
 
-- **Publicidad** De ninguna manera se puede enviar cualquier tipo de publicidad no deseada en el servidor.
+- **Publicidad** De ninguna manera se puede enviar cualquier tipo de publicidad no deseada.
 
-- **Invitaciones** Queda prohibido enviar invitación a otro servidor no relacionado con Zeew
+- **Invitaciones** Queda prohibido enviar invitación a otro servidor no relacionado con Zeew dentro del servidor de discord.
 
 - **Civil** Nada de insultos, amenazas, imágenes ofensivas o ataques contra otras personas. Prohibido conspirar contra los staff.
 
 - **Idioma** oficial de este servidor es el español o castellano al ser el idioma más extendido de Latinoamérica y España.
 
-- **Menciones** Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar.
+- **Menciones** Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar dentro del servidor de discord.
 
 - **Datos Personales** Está prohibida la repercusión de datos privados, ya sean números de teléfono, correos electrónicos, direcciones IP o algún otro dato que pueda perjudicar o contenga información de cualquier usuario. Intentar sabotear, generar desconfianza entre miembros del servidor, con los datos de cualquier usuario.
 
@@ -40,11 +41,11 @@ https://discordapp.com/privacy  <br />
 
 ## Comunidad
 
-- **Contenido Ilegal** Está prohibido rotundamente hablar, publicar, opinar o crear discusiones, debates u otro tipo de actividad que refiera a lo que Discord considere ilegal o no permitido. Intentar obtener contraseñas u otra información privada de otros miembros (incluyendo cualquier dirección IP).
+- **Contenido Ilegal** Está prohibido rotundamente hablar, publicar, opinar o crear discusiones, debates u otro tipo de actividad que se considere ilegal o no permitido. Intentar obtener contraseñas u otra información privada de otros miembros (incluyendo cualquier dirección IP).
 
-- **Canales** Prohibido molestar, interrumpir en canales de texto u voz, intentando interrumpir o generar un conflicto entre uno o más miembros.
+- **Canales** Prohibido molestar, interrumpir en canales de texto u voz, intentando interrumpir o generar un conflicto entre uno o más miembros dentro del servidor de discord.
 
-- **Nickname/Apodo** Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, no debe incitar al odio o al spam, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados
+- **Nickname/Apodo** Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, no debe incitar al odio o al spam, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 
 - **Emojis** No se permiten emojis con movimientos bruscos o cambios de colores rápidamente. Algunos miembros pueden tener problemas de salud ocasionados por eso tipo de emojis.
 
@@ -53,7 +54,7 @@ Pregunta a un staff si cierta acción o acciones esta permitido, antes de hacerl
 :::
 
 ::: danger
-Estas reglas pueden cambiar en algún momento sin previo aviso.
+Estas reglas pueden cambiar en algún momento con o sin previo aviso dependiendo de la situacion.
 :::
 
 ::: danger
