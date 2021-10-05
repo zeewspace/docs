@@ -43,6 +43,10 @@ module.exports = {
         link: '/proyects/'
       },
       {
+        text: 'Docs',
+        link: '/docs/'
+      },
+      {
         text: 'Guias',
         link: '/guides/'
       },
@@ -122,6 +126,22 @@ module.exports = {
           collapsable: true,
           children: [
             'db/mongodb'
+          ]
+        },
+      ],
+      '/docs/': [
+        {
+          title: 'API',
+          collapsable: true,
+          children: [
+            'api/int'
+          ]
+        },
+        {
+          title: 'Modulos',
+          collapsable: true,
+          children: [
+            'modules/niveles'
           ]
         },
       ]
