@@ -181,13 +181,13 @@ client.on('messageCreate', async(message) => {//Realizamos un client.on o un nue
 
 ## Links
 
-| Librerías |                    Links                    |
-| :-------: | :-----------------------------------------: |
+| Librerías |                   Links                    |
+| :-------: | :----------------------------------------: |
 |  MongoDB  |   [Clic Aquí](https://www.mongodb.com/)    |
 | Mongoose  |    [Clic Aquí](https://mongoosejs.com)     |
 |  Discord  | [Clic Aquí](https://discord.gg/6tCdxshm9w) |
 
 <div align="center">
     <small>Zeew.Dev &copy ▫ Todos los derechos reservados</small> <br>
-    <a href="/init/equipo/zJuqn.html">Author: zjuqn</a>
+    <p>Author: zjuqn</p>
 </div>
