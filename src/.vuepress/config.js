@@ -141,7 +141,17 @@ module.exports = {
           title: 'Modulos',
           collapsable: true,
           children: [
-            'modules/niveles'
+            'modules/economia',
+            'modules/niveles',
+            'modules/zeew'
+          ]
+        },
+        {
+          title: 'FAQ',
+          collapsable: true,
+          children: [
+            'faq/discord',
+            'faq/token'
           ]
         },
       ]
