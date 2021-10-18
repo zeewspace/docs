@@ -84,6 +84,7 @@ module.exports = {
                 'equipo/gabo',
                 'equipo/bug',
                 'equipo/nadie',
+                'equipo/dreikam',
               ]
             },
           ]
