@@ -93,6 +93,7 @@ module.exports = {
           title: 'Eventos',
           collapsable: true,
           children: [
+            'events/historyspooky'
           ]
         },
       ],
