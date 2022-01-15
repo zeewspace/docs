@@ -1,7 +1,16 @@
 # Reglamento
 
-Estaremos añadiendo normas internas (propias) para hacer un ambiente menos tóxico el equitativo entre los miembros. <br/>
-Antes que nada, nosotros seguimos al pie de la letra las normas, privacidad; y los términos que rige Discord dentro de su plataforma.
+Este es el reglamento para el uso de nuestra plataforma y nuestra comunidad, la cual debera ser respetada para tener una convivencia saludable y sana.
+
+El usuario tiene la responsabilidad de leer el reglamenos y no nos hacemos responsables por las faltas realizadas.
+
+Nosotros tenemos el derecho vetar al usuario de nuestros servicios o aplicacion por inclumplimiento de alguna normal si es necesario.
+
+El equipo administrativo tiene el derecho y la obligacion de valorar y repercuir ante un incumplemiento en las normas y poder sancionar al usuario.
+
+Si tienes alguna queja, **Nunca** lo digas de manera publica o algun lugar publico en la comunidad (discord) o en nuestra web(plataforma), contacta a nuestro correo o un administrador correspondiente.
+
+En nuestra comunidad en la plataforma de discord nosotros seguimos a pie de la letra sus normas, privacidad; y terminos que rige discord.
 
 https://discordapp.com/guidelines <br />
 https://discordapp.com/terms    <br />
@@ -15,7 +24,7 @@ https://discordapp.com/privacy  <br />
 
 - **Civil** Nada de insultos, amenazas, imágenes ofensivas o ataques contra otras personas. Prohibido conspirar contra los staff.
 
-- **Idioma** oficial de este servidor es el español o castellano al ser el idioma más extendido de Latinoamérica y España.
+- **Idioma** el idioma oficial es el español o castellano al ser el idioma más extendido de Latinoamérica y España.
 
 - **Menciones** Evita las menciones a roles, usuarios o quotes en la medida de lo posible para no molestar dentro del servidor de discord.
 
@@ -33,7 +42,7 @@ https://discordapp.com/privacy  <br />
 
 - **Scripts** Está prohibido crear, entregar, pedir o sugerir algún código(script) que pueda perjudicar a un usuario, servidor o un bot de Discord.
 
-- **Ayuda Ilegal** Está prohibido pedir ayuda sobre actividades ilegales con el fin de perjudicar servidores y/o romper TOS de Discord.
+- **Ayuda Ilegal** Está prohibido pedir ayuda sobre actividades ilegales con el fin de perjudicar servidores, usuario a nosotros mismos o a la comunidad.
 
 - **Pedir Códigos** Está prohibido insistir a pedir códigos con el fin de: <br>
   - publicar el mismo contenido en otro canal, a fin de obtener una ayuda más rápida.
@@ -43,7 +52,7 @@ https://discordapp.com/privacy  <br />
 
 - **Contenido Ilegal** Está prohibido rotundamente hablar, publicar, opinar o crear discusiones, debates u otro tipo de actividad que se considere ilegal o no permitido. Intentar obtener contraseñas u otra información privada de otros miembros (incluyendo cualquier dirección IP).
 
-- **Canales** Prohibido molestar, interrumpir en canales de texto u voz, intentando interrumpir o generar un conflicto entre uno o más miembros dentro del servidor de discord.
+- **Canales** Prohibido molestar, interrumpir en canales de texto o voz, intentando interrumpir o generar un conflicto entre uno o más miembros dentro del servidor de discord.
 
 - **Nickname/Apodo** Un nickname o apodo debe ser legible y empezar por caracteres que permitan una posible mención de una manera sencilla, no debe incitar al odio o al spam, los moderadores se reservan el derecho de modificar aquellos apodos que consideren inadecuados.
 

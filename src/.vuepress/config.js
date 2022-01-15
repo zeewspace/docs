@@ -32,7 +32,7 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: true,
     nav: [
       {
         text: 'Inicio',
@@ -47,16 +47,12 @@ module.exports = {
         link: '/docs/'
       },
       {
-        text: 'Guias',
-        link: '/guides/'
-      },
-      {
         text: 'Discord',
         link: 'https://discord.gg/6tCdxshm9w'
       },
       {
-        text: 'Botlist',
-        link: 'https://botlist.zeew.dev'
+        text: 'web',
+        link: 'https://zeew.dev'
       }
     ],
     sidebar: {
@@ -67,7 +63,6 @@ module.exports = {
           children: [
             '',
             'hosting',
-            'comunidad',
           ]
         },
         {
@@ -82,20 +77,11 @@ module.exports = {
               children: [
                 'equipo/kamerrezz',
                 'equipo/gabo',
-                'equipo/bug',
-                'equipo/nadie',
                 'equipo/dreikam',
               ]
             },
           ]
-        },
-        {
-          title: 'Eventos',
-          collapsable: true,
-          children: [
-            'events/historyspooky'
-          ]
-        },
+        }
       ],
       '/proyects/': [
         {
@@ -121,15 +107,6 @@ module.exports = {
             'comunidad/gs-transcript'
           ]
         }
-      ],
-      '/guides/': [
-        {
-          title: 'Base de Datos',
-          collapsable: true,
-          children: [
-            'db/mongodb'
-          ]
-        },
       ],
       '/docs/': [
         {

@@ -1,11 +1,11 @@
-# ¿Qué es Zeew? :tada:
+# ¿Qué es Zeew?
 
-Zeew es una marca desarrollada en el mundo de **IT (Information Technology)**.
+Zeew es una startup de educacion online.
 
-Somos una comunidad de personas interesadas en tecnología y ciencias informáticas,lenguajes de programación, diseño web, infraestructura y muchas ganas de aprender entre todos.
+Donde encontraras mentores profesionales en el area de la programacion y el diseño grafico, con una plataforma de informacion y talleres practicos, incluyendo un perfil donde podras mostrar tus talentos y proyectos relacionados. Aprende a crear una sitio web o tu primer diseño de personaje.
 
-Nuestro fuerte es la tecnología, pero igual somos personas de varias paciones, algunos
-dibujamos, cantamos, vemos anime e incluso algunos somos influencers a sí que no hay escusas para ser parte de nuestra comunidad.
+Contamos una comunidad de personas interesadas en el mundo de la programacion y el diseño donde podras compartir experiencias, aprender en grupo, concer nuevas personas e incluso encontrar personas con las cual crear un nuevo proyecto.
+
 
 ## Como nació
 
