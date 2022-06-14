@@ -49,58 +49,53 @@ pero no te preocupes, nosotros solo recopilamos [informacion de usaurio](https:/
 
 * `/triggered` - Coloca un avatar y se convertira en un triggered
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
+    * `avatar` - coloca la url de una imagen
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958573913284182037/triggered.gif)
 
-* `/sepia` - Gifs randoms de pechos (anime)
+* `/sepia` - Coloca un avatar y se convertira en sepia
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
+    * `avatar` - Coloca la url de una imagen
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574236136538112/sepia.png)
 
-* `/gris` - Gifs randoms furry (anime)
+* `/gris` - Coloca un avatar y se convertira en gris
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
+    * `avatar` - Coloca la url de una imagen
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574377883017216/gris.png)
 
-* `/desenfoque` - Gifs randoms furry (anime)
+* `/desenfoque` - Coloca un avatar y se convertira en desenfocado
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
-    * `pixel` - coloca el grado del desenfoque
+    * `avatar` - Coloca la url de una imagen
+    * `pixel` - Coloca el grado del desenfoque
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574603771473950/desenfocado.png)
 
-* `/pixel` - Gifs randoms furry (anime)
+* `/pixel` - Coloca un avatar y se convertira en pixeleado
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
-    * `pixel` - coloca el grado del pixel
+    * `avatar` - Coloca la url de una imagen
+    * `pixel` - Coloca el grado del pixel
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574817731289138/pixel.png)
 
-* `/gay` - Gifs randoms furry (anime)
-  * **Querys**:
-    * `avatar` - soloca la url de una imagen
-
-![](https://cdn.discordapp.com/attachments/686222778504052846/958574236136538112/sepia.png)
 
 * `/gay` - Gifs randoms furry (anime)
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
+    * `avatar` - Coloca la url de una imagen
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574887616786482/gay.png)
 
-* `/circulo` - Gifs randoms furry (anime)
+* `/circulo` - Coloca un avatar y se convertira en círculo
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
+    * `avatar` - Coloca la url de una imagen
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574990368833536/triggered.gif)
 
-* `/shipeo` - Gifs randoms furry (anime)
+* `/shipeo` - Coloca un avatar y se convertirá en un ship
   * **Querys**:
-    * `avatar` - soloca la url de una imagen
-    * `avatar2` - soloca la url de una imagen
-    * `ship` - soloca la url de una imagen
+    * `avatar` - Coloca la url de otra imagen
+    * `avatar2` - Coloca la url de otra imagen
+    * `ship` - Coloca la url de una imagen
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958575213635846184/imginvertida.png)
