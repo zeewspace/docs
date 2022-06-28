@@ -39,8 +39,8 @@ module.exports = {
         link: '/init/',
       },
       {
-        text: 'Proyectos',
-        link: '/proyects/'
+        text: 'Informacion',
+        link: '/info/'
       },
       {
         text: 'Docs',
@@ -65,48 +65,12 @@ module.exports = {
             'hosting',
           ]
         },
-        {
-          title: 'Informacion',
-          collapsable: true,
-          children: [
-            'information/rules',
-            'information/tos',
-            {
-              title: 'Equipo',
-              collapsable: true,
-              children: [
-                'equipo/kamerrezz',
-                'equipo/gabo',
-                'equipo/dreikam',
-              ]
-            },
-          ]
-        }
       ],
-      '/proyects/': [
-        {
-          title: 'Proyectos',
-          collapsable: false,
-          children: [
-            ''
-          ]
-        },
-        {
-          title: 'Zeew',
-          collapsable: true,
-          children: [
-            'zeew/api',
-            'zeew/eco',
-            'zeew/levels',
-          ]
-        },
-        {
-          title: 'Comunidad',
-          collapsable: true,
-          children: [
-            'comunidad/gs-transcript'
-          ]
-        }
+      '/info/': [
+        'rules',
+        'tos',
+        'priva',
+        'team'
       ],
       '/docs/': [
         {
