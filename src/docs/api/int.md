@@ -14,8 +14,8 @@ pero no te preocupes, nosotros solo recopilamos [informacion de usaurio](https:/
 | --------- | ------------------------- |
 | sfw       | Gifs randoms para rol     |
 | nsfw      | Gifs randoms para rol +18 |
-| img       | Imagens editadas          |
-| card      | Tarjetas editas           |
+| img       | Imágenes editadas         |
+| card      | Tarjetas editadas         |
 
 ## sfw
 
@@ -42,8 +42,8 @@ pero no te preocupes, nosotros solo recopilamos [informacion de usaurio](https:/
 
 * API: `https://api.zeew.dev/int/img`
 * Ejemplo: `https://api.zeew.dev/int/img/triggeredavatar=https://i.imgur.com/6x643a0.jpg`
-* Ejemplo Dos: `https://api.zeew.dev/int/img/desenfoque?avatar=https://i.imgur.com/6x643a0.jpg&pixel=5`
-* retorna un buffer
+* Otro ejemplo: `https://api.zeew.dev/int/img/desenfoque?avatar=https://i.imgur.com/6x643a0.jpg&pixel=5`
+* Retorna un buffer
 
 ### filtros
 
@@ -80,7 +80,7 @@ pero no te preocupes, nosotros solo recopilamos [informacion de usaurio](https:/
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574817731289138/pixel.png)
 
 
-* `/gay` - Gifs randoms furry (anime)
+* `/gay` - Superpone una bandera gay (arcoiris)
   * **Querys**:
     * `avatar` - Coloca la url de una imagen
 
@@ -92,7 +92,7 @@ pero no te preocupes, nosotros solo recopilamos [informacion de usaurio](https:/
 
 ![](https://cdn.discordapp.com/attachments/686222778504052846/958574990368833536/triggered.gif)
 
-* `/shipeo` - Coloca un avatar y se convertirá en un ship
+* `/shipeo` - Coloca un avatar y se convertirá en un shipeo
   * **Querys**:
     * `avatar` - Coloca la url de otra imagen
     * `avatar2` - Coloca la url de otra imagen
